@@ -2,8 +2,6 @@
 <h3 align="center">I am 2nd year student pursuing my B.Tech in Computer Science And Engineering (Data Science). I am a continuos learner always looking to expand my horizon. You can connect with me for any potential collaborations or just want to chat with me.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pruthvirajpasee0" alt="pruthvirajpasee0" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React, JavaScript, Python**
